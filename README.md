@@ -1,2 +1,2 @@
 # RockPaperScissorsLizardSpock
-Fun little python game
+Fun Little Python exercise to create the Rock Paper Scissors Lizard Spock game
